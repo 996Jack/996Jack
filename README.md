@@ -25,7 +25,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 ---
 
-### 📺 Latest Youtube Videos
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [2021; Discord Bot Coding | Review](https://www.youtube.com/watch?v=1V0RJJbqWgw)
