@@ -27,10 +27,10 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Playing on a PS5](https://www.youtube.com/watch?v=QX9MVsZ4BLo)
+- [Hacking Chrome's Dinosaur game.](https://www.youtube.com/watch?v=QX9MVsZ4BLo)
 - [2021; Discord Bot Coding | Review](https://www.youtube.com/watch?v=1V0RJJbqWgw)
-- [2021; Discord Bot Coding | Bot Status](https://youtu.be/RLUyLUxwsd0)
-- [2021; Discord Bot Coding | Support Bot](https://www.youtube.com/watch?v=4IJU0r3yXJY)
-- [2021; Discord Bot Coding | Support Server](https://youtu.be/6L3q-vNGvxM)
+- [2021; Discord Bot Coding | Bot Status](https://www.youtube.com/watch?v=RLUyLUxwsd0)
 <!-- YOUTUBE:END -->
 
 ---
