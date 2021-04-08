@@ -6,6 +6,8 @@ Welcome to Phenix H's official GitHub profile!
 - 🎮 I love games.
 - 📱💻 Know everything about technology.
 
+** Sponsor me! [Patreon](patreon.com/PhenixH) & [DonorBox](https://donorbox.org/phenix-h-fundraiser)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
