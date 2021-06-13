@@ -55,6 +55,8 @@ Welcome to Phenix H's official GitHub profile!
 - [Playing on a PS5](https://www.youtube.com/watch?v=QX9MVsZ4BLo)
 - [Hacking Chrome's Dinosaur game.](https://www.youtube.com/watch?v=QX9MVsZ4BLo)
 - [2021; Discord Bot Coding | Review](https://www.youtube.com/watch?v=1V0RJJbqWgw)
+
+NOTE: This is never updated. Check my channel for new videos.
 <!-- YOUTUBE:END -->
 
 ---
