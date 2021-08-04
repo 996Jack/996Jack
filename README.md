@@ -30,8 +30,6 @@ Welcome to Phenix H's official GitHub profile!
 - 🎮 I love games.
 - 📱💻 Know everything about technology.
 
-** Sponsor me! [Patreon](patreon.com/PhenixH) & [DonorBox](https://donorbox.org/phenix-h-fundraiser) **
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -47,14 +45,6 @@ Welcome to Phenix H's official GitHub profile!
 ### JOBS
 - Currently coding bots and developing for PD Studios. Check out the [website](https://sites.google.com/view/pdwebsite)!
 - Making and editing YouTube videos for Phenix H. Studios
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to make a github.io site](https://youtu.be/fIFlBiy5bwU)
-- [Playing on a PS5](https://www.youtube.com/watch?v=QX9MVsZ4BLo)
-- [Hacking Chrome's Dinosaur game.](https://www.youtube.com/watch?v=QX9MVsZ4BLo)
-- [2021; Discord Bot Coding | Review](https://www.youtube.com/watch?v=1V0RJJbqWgw)
 
 NOTE: This is never updated. Check my channel for new videos.
 <!-- YOUTUBE:END -->
