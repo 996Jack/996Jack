@@ -18,12 +18,6 @@
 ---
 
 
-``js
-<Quick Introduction>
-Eyyoo! Code addict, with life lessons :).
-```
-
-
 
 Welcome to Phenix H's official GitHub profile!
 
