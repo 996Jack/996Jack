@@ -1,4 +1,4 @@
-<h1 align="center">GHPhenixH</h1>
+<h1 align="center">996Jack</h1>
 <p align="center">
     <a href="LICENSE">
         <img src="https://img.shields.io/github/license/GHPhenixH/GHPhenixH?label=License">
@@ -18,7 +18,10 @@
 ---
 
 
-
+``js
+<Quick Introduction>
+Eyyoo! Code addict, with life lessons :).
+```
 
 
 
