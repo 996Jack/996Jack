@@ -101,7 +101,9 @@ Welcome to `phenix.html`'s official GitHub profile!
 - Making and editing YouTube videos for Phenix H. Studios
 
 ### 3 New Videos
-[
+[Make a Music Bot & Website | 4K](https://www.youtube.com/watch?v=Di7rX1Zc0eQ&t)
+[EARTHQUAKE - #shorts](https://www.youtube.com/watch?v=f6nueRwWXZk)
+[Heat Waves - #shorts](https://www.youtube.com/watch?v=DLCxEr60Xl8)
 
 <p align="center">
 <a href="https://discord.io/PhenixH">
