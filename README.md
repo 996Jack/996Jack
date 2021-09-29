@@ -100,7 +100,9 @@ Welcome to `phenix.html`'s official GitHub profile!
 - Currently coding bots and developing for PD Studios. Check out the [website](https://sites.google.com/view/pdwebsite)!
 - Making and editing YouTube videos for Phenix H. Studios
 
-### 3 New Videos
+### 4 New Videos
+[Playing Among Us | 4K](https://youtu.be/1TivLL2Fslw)
+
 [Make a Music Bot & Website | 4K](https://www.youtube.com/watch?v=Di7rX1Zc0eQ&t)
 
 [EARTHQUAKE - #shorts](https://www.youtube.com/watch?v=f6nueRwWXZk)
