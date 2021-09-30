@@ -13,6 +13,9 @@
     <a href="https://github.com/GHPhenixH/GHPhenixH/issues">
         <img src="https://img.shields.io/github/issues/GHPhenixH/GHPhenixH?label=Issues">
     </a>
+    <a href="https://github.com/996Jack/">
+        <img src="https://komarev.com/ghpvc/?username=996Jack&color=red" />
+    </a> 
 </p>
 
 ---
