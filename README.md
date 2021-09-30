@@ -103,15 +103,15 @@ Welcome to `phenix.html`'s official GitHub profile!
 - Currently coding bots and developing for PD Studios. Check out the [website](https://sites.google.com/view/pdwebsite)!
 - Making and editing YouTube videos for Phenix H. Studios
 
-### 4 New Videos
+### Videos
 
-[-AIRING LIVE NOW- Trying & DESTROYING Windows 11 | 4K](https://youtu.be/5b_GWY6mMuw)
-
-[Playing Among Us | 4K](https://youtu.be/1TivLL2Fslw)
-
-[Make a Music Bot & Website | 4K](https://www.youtube.com/watch?v=Di7rX1Zc0eQ&t)
-
-[EARTHQUAKE - #shorts](https://www.youtube.com/watch?v=f6nueRwWXZk)
+<!-- YOUTUBE:START -->
+- [Trying & DESTROYING Windows 11 | 4K](https://www.youtube.com/watch?v=5b_GWY6mMuw)
+- [Playing Among Us | 4K](https://www.youtube.com/watch?v=1TivLL2Fslw)
+- [Make a Music Bot & Website | 4K](https://www.youtube.com/watch?v=Di7rX1Zc0eQ)
+- [EARTHQUAKE! - #shorts](https://www.youtube.com/watch?v=f6nueRwWXZk)
+- [Heat Waves - #shorts](https://www.youtube.com/watch?v=DLCxEr60Xl8)
+<!-- YOUTUBE:END -->
 
 <p align="center">
 <a href="https://discord.io/PhenixH">
@@ -125,14 +125,4 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ** [996Jack](https://github.com/996Jack) **
 
-** [Phenix H.](https://www.youtube.com/channel/UCHVAca-OHLlmf9GqFM3vBwQ) **
------------------------------------Test Section-----------------------------------
-### Test - Videos
-
-<!-- YOUTUBE:START -->
-- [Trying & DESTROYING Windows 11 | 4K](https://www.youtube.com/watch?v=5b_GWY6mMuw)
-- [Playing Among Us | 4K](https://www.youtube.com/watch?v=1TivLL2Fslw)
-- [Make a Music Bot & Website | 4K](https://www.youtube.com/watch?v=Di7rX1Zc0eQ)
-- [EARTHQUAKE! - #shorts](https://www.youtube.com/watch?v=f6nueRwWXZk)
-- [Heat Waves - #shorts](https://www.youtube.com/watch?v=DLCxEr60Xl8)
-<!-- YOUTUBE:END -->
+** [phenix.html](https://www.youtube.com/channel/UCHVAca-OHLlmf9GqFM3vBwQ) **
