@@ -129,5 +129,9 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Test - Videos
 
 <!-- YOUTUBE:START -->
-
+- [Playing Among Us | 4K](https://www.youtube.com/watch?v=1TivLL2Fslw)
+- [Make a Music Bot & Website | 4K](https://www.youtube.com/watch?v=Di7rX1Zc0eQ)
+- [EARTHQUAKE! - #shorts](https://www.youtube.com/watch?v=f6nueRwWXZk)
+- [Heat Waves - #shorts](https://www.youtube.com/watch?v=DLCxEr60Xl8)
+- [I like that sad boy. - #shorts](https://www.youtube.com/watch?v=fei84Z7lB2Y)
 <!-- YOUTUBE:END -->
