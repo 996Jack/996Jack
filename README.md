@@ -17,7 +17,17 @@
         <img src="https://komarev.com/ghpvc/?username=996Jack&color=red" />
     </a> 
 </p>
-
+---
+$ sudo run 996Jack
+Launching 996Jack.
+Launching 996Jack..
+Launching 996Jack...
+Launching 996Jack.
+Launching 996Jack..
+Launching 996Jack...
+Launching 996Jack.
+Launching 996Jack..
+Launching 996Jack...
 ---
 Welcome to `phenix.html`'s official GitHub profile!
 
