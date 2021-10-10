@@ -69,11 +69,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [I'm the Impostor... 🔪 | ANNOUNCEMENT | 4K](https://www.youtube.com/watch?v=chiTlmOq5GM)
 - [Windows 11 | Release Special | 4K](https://www.youtube.com/watch?v=Owe96FUwcDg)
 - [Install macOS on VMware Workstation | ft. @Tee Vee | HD |](https://www.youtube.com/watch?v=zzAbQEvw2OU)
 - [How to install macOS on Windows 10 with VirtualBox | ft. @Tee Vee | 4K |](https://www.youtube.com/watch?v=Rx8nVXnIbE8)
 - [Change macOS Resolution | ft. @Tee Vee | 4K |](https://www.youtube.com/watch?v=do0H4MnqNCU)
-- [Getting a Power every day - #shorts](https://www.youtube.com/watch?v=8-Bg4JmBiAM)
 <!-- YOUTUBE:END -->
 
 <p align="center">
