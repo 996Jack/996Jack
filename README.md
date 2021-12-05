@@ -48,6 +48,7 @@ Welcome to `phenix.html`'s official GitHub profile!
 - 🎮 I love games.
 - 📱💻 Know everything about technology.
 - 🎮 I'm a gamer.
+- 📫Text me! (628) 270-7372
 
 ### Languages and Tools:
 
