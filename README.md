@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [Haunted Camper | CREEPY TEXTS | 3K](https://www.youtube.com/watch?v=30La91VYlmQ)
 - [2 mins of Karen in 4K](https://www.youtube.com/watch?v=dQ813MH4uMs)
 - [Tips for becoming a YouTuber | 2022 | 4K](https://www.youtube.com/watch?v=GhdegmiW-cw)
 - [phenix Html - Inferno | 4K](https://www.youtube.com/watch?v=2paNGiCgL7I)
 - [Xbox Unboxing = New Years Special = 4K](https://www.youtube.com/watch?v=xr00fUkeYQA)
-- [Unboxing - Christmas Special -- 4K](https://www.youtube.com/watch?v=iPpXyqXUl-w)
 <!-- YOUTUBE:END -->
 
 <p align="center">
