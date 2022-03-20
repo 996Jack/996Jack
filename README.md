@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [Freak up the Flame | Music Video | 4K](https://www.youtube.com/watch?v=zOfWPSGjXYk)
 - [Unknown Caller pt.1 | Creepy Texts | HD](https://www.youtube.com/watch?v=PMgAjdeueO0)
 - [666 - Creepypasta - HD](https://www.youtube.com/watch?v=bfn3ZRVbTp8)
 - [Grandma&#39;s Lamp | Creepy Stories | 4K](https://www.youtube.com/watch?v=nyEQ1WL480g)
 - [501 | Creepy Texts | 4K](https://www.youtube.com/watch?v=We8MY9oYWmQ)
-- [Haunted Camper | CREEPY TEXTS | 3K](https://www.youtube.com/watch?v=30La91VYlmQ)
 <!-- YOUTUBE:END -->
 
 <p align="center">
