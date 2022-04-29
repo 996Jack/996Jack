@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [Anzac Service 2022 | 4K](https://www.youtube.com/watch?v=tN3pIIksZRk)
 - [Almost got tricked! &lpar;2/2&rpar; | Job Simulator | FHD](https://www.youtube.com/watch?v=wldbDp-tYes)
 - [I GOT ROBBED!!! &lpar;1/2&rpar; | Job Simulator | 4K](https://www.youtube.com/watch?v=kmpuY8IWNMU)
 - [Camp Stories | pt.1 | 4K](https://www.youtube.com/watch?v=PlngSJbtokE)
 - [Freak up the Flame | Lyric Video | 4K](https://www.youtube.com/watch?v=0qKCRx7C000)
-- [Freak up the Flame | Music Video | 4K](https://www.youtube.com/watch?v=zOfWPSGjXYk)
 <!-- YOUTUBE:END -->
 
 <p align="center">
