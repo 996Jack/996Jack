@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [I WILL NEVER BABYSIT AGAIN! - 4K](https://www.youtube.com/watch?v=n4811TfybM0)
 - [Worst Task in Among Us &lpar;original sweaty speedrunner meme&rpar;](https://www.youtube.com/watch?v=GsxPrbVMNaI)
 - [I Moved Out! | Vacation Simulator VR | 4K](https://www.youtube.com/watch?v=kVuJWDclwko)
 - [Anzac Service 2022 | 4K](https://www.youtube.com/watch?v=tN3pIIksZRk)
 - [Almost got tricked! &lpar;2/2&rpar; | Job Simulator | FHD](https://www.youtube.com/watch?v=wldbDp-tYes)
-- [I GOT ROBBED!!! &lpar;1/2&rpar; | Job Simulator | 4K](https://www.youtube.com/watch?v=kmpuY8IWNMU)
 <!-- YOUTUBE:END -->
 
 <p align="center">
