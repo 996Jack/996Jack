@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [Nutbush Dance - 4K](https://www.youtube.com/watch?v=O6puMiNujPg)
 - [Install macOS Monterey on VMware   UPDATED   4K](https://www.youtube.com/watch?v=DbAb-2eaz1Y)
 - [I WILL NEVER BABYSIT AGAIN! - 4K](https://www.youtube.com/watch?v=n4811TfybM0)
 - [Worst Task in Among Us &lpar;original sweaty speedrunner meme&rpar;](https://www.youtube.com/watch?v=GsxPrbVMNaI)
 - [I Moved Out! | Vacation Simulator VR | 4K](https://www.youtube.com/watch?v=kVuJWDclwko)
-- [Anzac Service 2022 | 4K](https://www.youtube.com/watch?v=tN3pIIksZRk)
 <!-- YOUTUBE:END -->
 
 <p align="center">
