@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [Amy &amp; Phenix Ep.2](https://www.youtube.com/watch?v=w5-TEJ2yVMM)
 - [Amy &amp; Phenix - Ep.1](https://www.youtube.com/watch?v=DAMCilrZpsI)
 - [Intro &lpar;Confidence Album&rpar;](https://www.youtube.com/watch?v=vMngY6S2-6U)
 - [Phenix W. - This Is Me](https://www.youtube.com/watch?v=9d7cTcvpVl4)
 - [iPod 1st Gen - Unboxing](https://www.youtube.com/watch?v=txE5bqQYIjo)
-- [NEW CHANNEL!](https://www.youtube.com/watch?v=_7SDfze2Z2c)
 <!-- YOUTUBE:END -->
 
 <p align="center">
