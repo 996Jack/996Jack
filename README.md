@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
+- [Amy &amp; Phenix Ep.4](https://www.youtube.com/watch?v=3R0vNN45DN0)
 - [Amy &amp; Phenix - Ep.3](https://www.youtube.com/watch?v=tKzv-ox3jOY)
 - [Amy &amp; Phenix Ep.2](https://www.youtube.com/watch?v=w5-TEJ2yVMM)
 - [Amy &amp; Phenix - Ep.1](https://www.youtube.com/watch?v=DAMCilrZpsI)
 - [Intro &lpar;Confidence Album&rpar;](https://www.youtube.com/watch?v=vMngY6S2-6U)
-- [Phenix W. - This Is Me](https://www.youtube.com/watch?v=9d7cTcvpVl4)
 <!-- YOUTUBE:END -->
 
 <p align="center">
