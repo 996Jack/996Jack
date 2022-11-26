@@ -70,11 +70,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 ### Videos
 
 <!-- YOUTUBE:START -->
-- [Amy &amp; Phenix Ep.4](https://www.youtube.com/watch?v=3R0vNN45DN0)
-- [Amy &amp; Phenix - Ep.3](https://www.youtube.com/watch?v=tKzv-ox3jOY)
-- [Amy &amp; Phenix Ep.2](https://www.youtube.com/watch?v=w5-TEJ2yVMM)
-- [Amy &amp; Phenix - Ep.1](https://www.youtube.com/watch?v=DAMCilrZpsI)
-- [Intro &lpar;Confidence Album&rpar;](https://www.youtube.com/watch?v=vMngY6S2-6U)
+- [Phenix &amp; Ava Max - Kings &amp; Queens](https://www.youtube.com/watch?v=P44cPTHA_Uo)
+- [Phenix &amp; Lewis Capaldi - Before You Go](https://www.youtube.com/watch?v=XtjqzliTj5Y)
+- [Lewis Capaldi &amp; Phenix - Someone You Loved](https://www.youtube.com/watch?v=da96Yc2SAkQ)
+- [Duncan Lawrence &amp; Phenix - Arcade](https://www.youtube.com/watch?v=vQWGXXcMF8k)
+- [Phenix &amp; Lewis Capaldi - Before You Go](https://www.youtube.com/watch?v=S6f6hI4WASk)
 <!-- YOUTUBE:END -->
 
 <p align="center">
