@@ -47,8 +47,7 @@ Welcome to `phenix.html`'s official GitHub profile!
 - Currently coding bots and developing for PD Studios. Check out the [website](https://sites.google.com/view/pdwebsite)!
 - Making and editing YouTube videos for Phenix H. Studios
 
-### Latest YouTube Shorts
-
+### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Phenix &amp; Ava Max - Kings &amp; Queens](https://www.youtube.com/watch?v=P44cPTHA_Uo)
 - [Phenix &amp; Lewis Capaldi - Before You Go](https://www.youtube.com/watch?v=XtjqzliTj5Y)
@@ -56,6 +55,15 @@ Welcome to `phenix.html`'s official GitHub profile!
 - [Duncan Lawrence &amp; Phenix - Arcade](https://www.youtube.com/watch?v=vQWGXXcMF8k)
 - [Phenix &amp; Lewis Capaldi - Before You Go](https://www.youtube.com/watch?v=S6f6hI4WASk)
 <!-- YOUTUBE:END -->
+
+### Latest YouTube Shorts
+<!-- YTSHORTS:START -->
+- [My old house 1 month after I moved #movinghouse #newchapter #goodmemories #shorts #movingon](https://m.youtube.com/watch?v=Z-l5KR3QjjE)
+- [yas queen](https://m.youtube.com/watch?v=wz2VcpOs2oE)
+- [dont need u here](https://m.youtube.com/watch?v=KQk9DGbTJTk)
+- [Green Green Grass](https://m.youtube.com/watch?v=5A_okkGgHiA)
+- [I'm annoyed with coding.](https://m.youtube.com/watch?v=_HKk96qQxMM)
+<!-- YTSHORTS:END -->
 
 <p align="center">
 <a href="https://discord.io/PhenixH">
@@ -65,10 +73,6 @@ Welcome to `phenix.html`'s official GitHub profile!
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 </p>
-
-### Latest YouTube Shorts
-<!-- YTSHORTS:START -->
-<!-- YTSHORTS:END -->
 
 ** [996Jack](https://github.com/996Jack) **
 
