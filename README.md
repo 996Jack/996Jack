@@ -47,7 +47,7 @@ Welcome to `phenix.html`'s official GitHub profile!
 - Currently coding bots and developing for PD Studios. Check out the [website](https://sites.google.com/view/pdwebsite)!
 - Making and editing YouTube videos for Phenix H. Studios
 
-### Videos
+### Latest YouTube Shorts
 
 <!-- YOUTUBE:START -->
 - [Phenix &amp; Ava Max - Kings &amp; Queens](https://www.youtube.com/watch?v=P44cPTHA_Uo)
@@ -66,6 +66,9 @@ Welcome to `phenix.html`'s official GitHub profile!
   </a>
 </p>
 
+### Latest YouTube Shorts
+<!-- YTSHORTS:START -->
+<!-- YTSHORTS:END -->
 
 ** [996Jack](https://github.com/996Jack) **
 
