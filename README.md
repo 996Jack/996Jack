@@ -43,10 +43,6 @@ Welcome to `phenix.html`'s official GitHub profile!
 <!-- img align="left" alt="firebase" width="26px" src="" /> 
 <!-- img align="left" alt="photoshop" width="26px" src="" /> <br /> -->
 
-### JOBS
-- Currently coding bots and developing for PD Studios. Check out the [website](https://sites.google.com/view/pdwebsite)!
-- Making and editing YouTube videos for Phenix H. Studios
-
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Phenix &amp; Ava Max - Kings &amp; Queens](https://www.youtube.com/watch?v=P44cPTHA_Uo)
