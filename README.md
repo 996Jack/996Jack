@@ -18,27 +18,7 @@
     </a> 
 </p>
 ---
-
 $ sudo run 996Jack
-
-Launching 996Jack.
-
-Launching 996Jack..
-
-Launching 996Jack...
-
-Launching 996Jack.
-
-Launching 996Jack..
-
-Launching 996Jack...
-
-Launching 996Jack.
-
-Launching 996Jack..
-
-Launching 996Jack...
-
 ---
 Welcome to `phenix.html`'s official GitHub profile!
 
