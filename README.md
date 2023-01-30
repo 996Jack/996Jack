@@ -45,11 +45,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MOST SECURE MINECRAFT HOUSE?!](https://www.youtube.com/watch?v=CorFGV_YVDI)
 - [Kill Bill - Parody](https://www.youtube.com/watch?v=DWNJXa_zfjg)
 - [Phenix &amp; Ava Max - Kings &amp; Queens](https://www.youtube.com/watch?v=P44cPTHA_Uo)
 - [Phenix &amp; Lewis Capaldi - Before You Go](https://www.youtube.com/watch?v=XtjqzliTj5Y)
 - [Lewis Capaldi &amp; Phenix - Someone You Loved](https://www.youtube.com/watch?v=da96Yc2SAkQ)
-- [Duncan Lawrence &amp; Phenix - Arcade](https://www.youtube.com/watch?v=vQWGXXcMF8k)
 <!-- YOUTUBE:END -->
 
 ### Latest YouTube Shorts
