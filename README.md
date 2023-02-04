@@ -54,11 +54,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [Deniere Danse](https://www.youtube.com/watch?v=RtHuRtdEo04)
+- [I&#39;m so shy](https://www.youtube.com/watch?v=a0CeTbarMlc)
+- [#greengreengrass](https://www.youtube.com/watch?v=dNe0Eumv6To)
 - [i got roller skates](https://www.youtube.com/watch?v=HgZ9d7XKMX4)
 - [i feel weak...](https://www.youtube.com/watch?v=_-Z7r2lk89w)
-- [Girl Scouts w/ @IanBoggs](https://www.youtube.com/watch?v=tKqX3Dxwndw)
-- [Green Green Grass - in my old house!](https://www.youtube.com/watch?v=Gp78AyAx_RI)
-- [My old house 1 month after I moved #movinghouse #newchapter #goodmemories #shorts #movingon](https://www.youtube.com/watch?v=Z-l5KR3QjjE)
 <!-- YTSHORTS:END -->
 
 <p align="center">
