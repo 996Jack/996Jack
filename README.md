@@ -54,11 +54,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [Green Green Grass @ #philipisland](https://www.youtube.com/watch?v=pcHU01qHvm0)
 - [I hate my gf](https://www.youtube.com/watch?v=cK7f33ZF3AU)
 - [Try this dance and use #htmldancecomp1](https://www.youtube.com/watch?v=Vi80PHtq5pM)
 - [Ur toxic](https://www.youtube.com/watch?v=WtdcIA6GsMI)
 - [Deniere Danse](https://www.youtube.com/watch?v=RtHuRtdEo04)
-- [I&#39;m so shy](https://www.youtube.com/watch?v=a0CeTbarMlc)
 <!-- YTSHORTS:END -->
 
 <p align="center">
