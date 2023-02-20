@@ -45,11 +45,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Amy &amp; Phenix / Ep 5](https://www.youtube.com/watch?v=crAlSCni7FM)
 - [First Among Us VR game?!](https://www.youtube.com/watch?v=fNikKKIkTrM)
 - [MOST SECURE HOUSE BATTLE &lpar;w/ Dad&rpar;](https://www.youtube.com/watch?v=hvbdXkY5ojg)
 - [MOST SECURE MINECRAFT HOUSE?!](https://www.youtube.com/watch?v=CorFGV_YVDI)
 - [Kill Bill - Parody](https://www.youtube.com/watch?v=DWNJXa_zfjg)
-- [Phenix &amp; Ava Max - Kings &amp; Queens](https://www.youtube.com/watch?v=P44cPTHA_Uo)
 <!-- YOUTUBE:END -->
 
 ### Latest YouTube Shorts
