@@ -45,11 +45,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [10 y/o reacts to 5 Minute Crafts?!](https://www.youtube.com/watch?v=Ok9iFcbXq2c)
 - [10 y/o reacts to Extreme Cheapskates](https://www.youtube.com/watch?v=Rdh0G2hPP3Q)
 - [Amy &amp; Phenix / Ep 5](https://www.youtube.com/watch?v=crAlSCni7FM)
 - [First Among Us VR game?!](https://www.youtube.com/watch?v=fNikKKIkTrM)
 - [MOST SECURE HOUSE BATTLE &lpar;w/ Dad&rpar;](https://www.youtube.com/watch?v=hvbdXkY5ojg)
-- [MOST SECURE MINECRAFT HOUSE?!](https://www.youtube.com/watch?v=CorFGV_YVDI)
 <!-- YOUTUBE:END -->
 
 ### Latest YouTube Shorts
