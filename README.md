@@ -54,11 +54,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [Paparazzi #australia #melbourne #crazy #victoria](https://www.youtube.com/watch?v=0w_VSemkJsk)
+- [#alessandra #eurovision2023 #australia #melbourne #victoria](https://www.youtube.com/watch?v=DoZ3Q5Id7V0)
+- [I&#39;ll call ya dad gf! #australia #melbourne #crazy #victoria](https://www.youtube.com/watch?v=jUN5hPoKpnQ)
+- [Green Green Grass #australia #melbourne #victoria](https://www.youtube.com/watch?v=Fn-D2r3kffQ)
 - [Congrats for getting into #eurovision2023 @AlessandraMusic. #australia #melbourne #victoria](https://www.youtube.com/watch?v=Vbd3gI_zDuM)
-- [dont mess with me#australia #melbourne #victoria](https://www.youtube.com/watch?v=nWSmtZ6rzkY)
-- [if we broke up #australia #melbourne #victoria #crazy #boydance](https://www.youtube.com/watch?v=XpIYHGfu5rI)
-- [wait that&#39;s a Hickey?! #australia #victoria #melbourne #crazy to](https://www.youtube.com/watch?v=vVSIFIe2gXM)
-- [what #australia #crazy #victoria #melbourne](https://www.youtube.com/watch?v=OdwyYjeYoCc)
 <!-- YTSHORTS:END -->
 
 <p align="center">
