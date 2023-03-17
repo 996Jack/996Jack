@@ -54,11 +54,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [Final Hogwarts Battle - #hp #harrypotter #hogwarts #finalbattle #voldemort](https://www.youtube.com/watch?v=MYzKdu6SLNY)
+- [McGonagall vs Snape - #hp #harrypotter #mcgonagall #hogwarts #severussnape](https://www.youtube.com/watch?v=BuYMv6luLtA)
 - [Final Hogwarts Battle - #hp #harrypotter #hogwarts #finalbattle #voldemort](https://www.youtube.com/watch?v=YB134vow97Y)
-- [McGonagall vs Snape - #hp #harrypotter #mcgonagall #hogwarts #severussnape](https://www.youtube.com/watch?v=LJlXfFG9F34)
 - [Phenixrock124](https://www.youtube.com/watch?v=3QNT1u2edS4)
 - [Help Dhar Mann Actors!  Full video on my channel. #HelpDharMannActors](https://www.youtube.com/watch?v=W6Fz8n0hHuE)
-- [Paparazzi #australia #melbourne #crazy #victoria](https://www.youtube.com/watch?v=0w_VSemkJsk)
 <!-- YTSHORTS:END -->
 
 <p align="center">
