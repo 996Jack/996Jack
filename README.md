@@ -54,11 +54,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [the 30th - failed attempt 1](https://www.youtube.com/watch?v=KkaBEyibNVw)
+- [roast my hairstyle #day1](https://www.youtube.com/watch?v=pHS7Z7Vsgh0)
 - [When you get a noise complaint... 😂😂](https://www.youtube.com/watch?v=FR_Jo8EPj90)
 - [#recordplayer - #tiktokremix / #music #daisythegreat #ajr](https://www.youtube.com/watch?v=f5eIZtGKOBo)
 - [record player #australia #melbourne #victoria](https://www.youtube.com/watch?v=dH_CA765MjI)
-- [anybody wanna watch a horror movie? #australia #melbourne #victoria #horrorstories](https://www.youtube.com/watch?v=3bQMtHjD4Jw)
-- [at least ur happy #australia #melbourne #victoria](https://www.youtube.com/watch?v=zO3ye4JwC3A)
 <!-- YTSHORTS:END -->
 
 <p align="center">
