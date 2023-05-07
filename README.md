@@ -45,11 +45,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Chocolate Cake - Lego Stop Motion](https://www.youtube.com/watch?v=_ZJsMp4n5Z0)
 - [Brunch - Lego Stop Motion](https://www.youtube.com/watch?v=ejws5QPhgUU)
 - [Breakfast - Lego Stop Motion](https://www.youtube.com/watch?v=cmk3o9iZirI)
 - [Anzac Day 2023 Broadcast](https://www.youtube.com/watch?v=vjGz9wTpd9U)
 - [record player &lpar;TikTok Remix&rpar;](https://www.youtube.com/watch?v=l-fBwyeV0iE)
-- [Jeff Bezos - Queen Elizabeth II Remix](https://www.youtube.com/watch?v=swq8xS7M7iw)
 <!-- YOUTUBE:END -->
 
 ### Latest YouTube Shorts
