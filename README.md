@@ -45,11 +45,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [1 Hour Lego Timer &lpar;no music&rpar;](https://www.youtube.com/watch?v=YTU9PzYRrAo)
+- [40 Minute Timer &lpar;with music&rpar;](https://www.youtube.com/watch?v=gchJSznscwM)
+- [30 Minute Timer &lpar;no music&rpar;](https://www.youtube.com/watch?v=r1DTRsbv9vI)
 - [20 Minute Timer &lpar;with music&rpar;](https://www.youtube.com/watch?v=ocHCqhyxCgA)
 - [5 Minute Timer &lpar;with music&rpar;](https://www.youtube.com/watch?v=F3csGnY222U)
-- [15 Minute Lego Timer &lpar;no music&rpar;](https://www.youtube.com/watch?v=zCE-KiKqxx4)
-- [3 Minute Lego Timer &lpar;with music&rpar;](https://www.youtube.com/watch?v=j4ZHJ4ReKgo)
-- [Chocolate Cake - Lego Stop Motion](https://www.youtube.com/watch?v=_ZJsMp4n5Z0)
 <!-- YOUTUBE:END -->
 
 ### Latest YouTube Shorts
