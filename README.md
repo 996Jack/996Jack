@@ -54,11 +54,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [Mockingbird #cover #eminem #mockingbirdeminem #mockingbird](https://www.youtube.com/watch?v=17SeDY-4C9Q)
+- [fail #2](https://www.youtube.com/watch?v=ts_gEy6Z0TE)
+- [Mockingbird failed attempt #1 #mockingbird #mockingbirdeminem #eminem](https://www.youtube.com/watch?v=rWM5ebI3kqE)
 - [roast my shirt #day2](https://www.youtube.com/watch?v=lE9SjXxzJxY)
 - [the 30th - failed attempt 1](https://www.youtube.com/watch?v=KkaBEyibNVw)
-- [roast my hairstyle #day1](https://www.youtube.com/watch?v=pHS7Z7Vsgh0)
-- [When you get a noise complaint... 😂😂](https://www.youtube.com/watch?v=FR_Jo8EPj90)
-- [#recordplayer - #tiktokremix / #music #daisythegreat #ajr](https://www.youtube.com/watch?v=f5eIZtGKOBo)
 <!-- YTSHORTS:END -->
 
 <p align="center">
