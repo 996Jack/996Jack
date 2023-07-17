@@ -1,34 +1,10 @@
 <h1 align="center">996Jack</h1>
-<p align="center">
-    <a href="LICENSE">
-        <img src="https://img.shields.io/github/license/GHPhenixH/GHPhenixH?label=License">
-    </a>
-    <a href="https://github.com/GHPhenixH/GHPhenixH/releases/latest">
-        <img src="https://img.shields.io/github/v/release/GHPhenixH/GHPhenixH?label=Latest%20Version">
-    </a>
-    <a href="https://github.com/GHPhenixH/GHPhenixH/commit/main">
-        <img src="https://img.shields.io/github/last-commit/GHPhenixH/GHPhenixH?label=Last%20Update">
-    </a>
-    <img src="https://img.shields.io/github/languages/code-size/GHPhenixH/GHPhenixH?label=Size">
-    <a href="https://github.com/GHPhenixH/GHPhenixH/issues">
-        <img src="https://img.shields.io/github/issues/GHPhenixH/GHPhenixH?label=Issues">
-    </a>
-    <a href="https://github.com/996Jack/">
-        <img src="https://komarev.com/ghpvc/?username=996Jack&color=red" />
-    </a> 
-</p>
----
-$ sudo run 996Jack
----
+
 Welcome to `phenix.html`'s official GitHub profile!
 
-- 🌱 I’m currently learning everything.
 - 💎 Making YouTube videos.
-- 👩‍💻 Teaching people how to code.
-- 🎮 I love games.
 - 📱💻 Know everything about technology.
 - 🎮 I'm a gamer.
-- 📫Text me! (628) 270-7372
 
 ### Languages and Tools:
 
