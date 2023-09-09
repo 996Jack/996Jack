@@ -30,11 +30,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [#schoolcamp #storytime pt.3](https://www.youtube.com/watch?v=vXLEFWjjG5o)
+- [#schoolcamp #storytime pt.2](https://www.youtube.com/watch?v=ZrMrF7eUtYA)
+- [#schoolcamp #storytime part 1](https://www.youtube.com/watch?v=T7Jb77HsG-c)
 - [#pov a rumour gets spreaded online and goes viral... who did it?](https://www.youtube.com/watch?v=xiay7Y1Ns1M)
 - [fail](https://www.youtube.com/watch?v=JVlMgo6Tkao)
-- [#samandcolbyedit - #stereohearts - #samandcolby](https://www.youtube.com/watch?v=1gnLHyyjT6M)
-- [Mockingbird #cover #eminem #mockingbirdeminem #mockingbird](https://www.youtube.com/watch?v=17SeDY-4C9Q)
-- [fail #2](https://www.youtube.com/watch?v=ts_gEy6Z0TE)
 <!-- YTSHORTS:END -->
 
 <p align="center">
