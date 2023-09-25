@@ -30,7 +30,7 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
-- [New channel! @phen.mp3](https://www.youtube.com/watch?v=5EmNm0mHX2w)
+- [New channel! @ThatKidHasADHD](https://www.youtube.com/watch?v=5EmNm0mHX2w)
 - [#schoolcamp #storytime pt.3](https://www.youtube.com/watch?v=vXLEFWjjG5o)
 - [#schoolcamp #storytime pt.2](https://www.youtube.com/watch?v=ZrMrF7eUtYA)
 - [#schoolcamp #storytime part 1](https://www.youtube.com/watch?v=T7Jb77HsG-c)
