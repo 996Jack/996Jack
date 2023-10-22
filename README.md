@@ -30,11 +30,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [#pov a man hits on a girl and a boy feminist steps in](https://www.youtube.com/watch?v=ILh6KzMqBGA)
+- [#pov you run into the meanest introvert](https://www.youtube.com/watch?v=1Zs_HIWSnv0)
 - [Rolex #dance by #ayoandteo](https://www.youtube.com/watch?v=J7Ba15uk6os)
 - [New channel! @ThatKidHasADHD](https://www.youtube.com/watch?v=5EmNm0mHX2w)
 - [#schoolcamp #storytime pt.3](https://www.youtube.com/watch?v=vXLEFWjjG5o)
-- [#schoolcamp #storytime pt.2](https://www.youtube.com/watch?v=ZrMrF7eUtYA)
-- [#schoolcamp #storytime part 1](https://www.youtube.com/watch?v=T7Jb77HsG-c)
 <!-- YTSHORTS:END -->
 
 <p align="center">
