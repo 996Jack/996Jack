@@ -30,11 +30,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [#happybirthday lil bro. Bday was at #acespace and I highly recommend.](https://www.youtube.com/watch?v=blvKxW5idjs)
+- [26 November 2023](https://www.youtube.com/watch?v=cRFjNFQsXbQ)
 - [Optus compensating customers! #optus #optusoutage #outage #optus2023 #australia #optusoutage2023](https://www.youtube.com/watch?v=wuhDPcUZkp8)
 - [#pov a man hits on a girl and a boy feminist steps in](https://www.youtube.com/watch?v=ILh6KzMqBGA)
 - [#pov you run into the meanest introvert](https://www.youtube.com/watch?v=1Zs_HIWSnv0)
-- [Rolex #dance by #ayoandteo](https://www.youtube.com/watch?v=J7Ba15uk6os)
-- [New channel! @ThatKidHasADHD](https://www.youtube.com/watch?v=5EmNm0mHX2w)
 <!-- YTSHORTS:END -->
 
 <p align="center">
