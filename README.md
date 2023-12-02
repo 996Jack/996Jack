@@ -30,11 +30,11 @@ Welcome to `phenix.html`'s official GitHub profile!
 
 ### Latest YouTube Shorts
 <!-- YTSHORTS:START -->
+- [new tripod thing test! #anko #kmartaustralia #tripod #blackfriday #cheap](https://www.youtube.com/watch?v=gFf21eR6o2U)
+- [we got i](https://www.youtube.com/watch?v=98idRXW4SkQ)
 - [#itgirl](https://www.youtube.com/watch?v=xY39Ti-iEZM)
 - [walk on by #dojacat](https://www.youtube.com/watch?v=67XiwbXNlmk)
 - [don&#39;t move to #melbourne #victoria, too much #rain](https://www.youtube.com/watch?v=FLTV9iMpa6o)
-- [#happybirthday lil bro. Bday was at #acespace and I highly recommend.](https://www.youtube.com/watch?v=blvKxW5idjs)
-- [26 November 2023](https://www.youtube.com/watch?v=cRFjNFQsXbQ)
 <!-- YTSHORTS:END -->
 
 <p align="center">
